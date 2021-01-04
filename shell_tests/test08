@@ -1,0 +1,1 @@
+./test-cmd 8 2> test8.out
